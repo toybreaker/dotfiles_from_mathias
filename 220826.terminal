@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WindowList</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>{-1862, 1283}</string>
+			<key>ScrollerStyle</key>
+			<integer>0</integer>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>ShowsTabBarInFullScreen</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>116</integer>
+					<key>Tab Row Count</key>
+					<integer>29</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>9FC96CD9-8E04-4FC9-9C56-A3373374A049</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0699999999999998</real>
+						<key>name</key>
+						<string>220822&lt;ROK</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>220822&lt;ROK</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://K.local/Users/admi/</string>
+					<key>Tab Working Directory URL String</key>
+					<string>file://K.local/Users/admi</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Origin</key>
+			<string>{-555, 1280}</string>
+			<key>ScrollerStyle</key>
+			<integer>0</integer>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>ShowsTabBarInFullScreen</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>47</integer>
+					<key>Tab Row Count</key>
+					<integer>29</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>94F36AB8-3752-4D41-B9D2-D69C3E993DAD</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0699999999999998</real>
+						<key>name</key>
+						<string>220822&lt;ROK</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>220822&lt;ROK</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://K.local/Users/admi/</string>
+					<key>Tab Working Directory URL String</key>
+					<string>file://K.local/Users/admi</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>220826</string>
+	<key>type</key>
+	<string>Window Group</string>
+</dict>
+</plist>
